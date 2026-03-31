@@ -15,45 +15,45 @@ vii. VITALITY addresses these gaps by introducing a multi-role, moderated, and i
 ## Objectives
 
 ### 1. User Management System
-i. Enable user registration and login
-ii. Define three roles:
-iii. Admin
-iv. Seller
-v. Buyer
-vi. Allow Buyers to apply for Seller role via admin approval
-vii. Enable Admins to downgrade Sellers if required
+i. Enable user registration and login  
+ii. Define three roles:  
+- Admin  
+- Seller  
+- Buyer  
+vi. Allow Buyers to apply for Seller role via admin approval  
+vii. Enable Admins to downgrade Sellers if required  
 
 ### 2. Seller Approval Workflow
-Provide a rate-limited form (max 2 submissions/hour)
-Collect:
-i. Full Name
-ii. Registration Number
-iii. Phone Number
-iv. Hostel Block & Room Number
-v. Send submissions to Admin dashboard
-vi. Notify users upon approval/rejection
+Provide a rate-limited form (max 2 submissions/hour)  
+Collect:  
+i. Full Name  
+ii. Registration Number  
+iii. Phone Number  
+iv. Hostel Block & Room Number  
+v. Send submissions to Admin dashboard  
+vi. Notify users upon approval/rejection  
 
 ### 3. Product Listing & Moderation
-Sellers submit products with:
-i. Unique Product ID
-ii. Category (For Him / For Her / For Everyone)
-iii. Name
-iv. Description and Base Price
-v. At least one image
-vi. Admin approval required before listing
-vii. Seller notified of approval/rejection
+Sellers submit products with:  
+i. Unique Product ID  
+ii. Category (For Him / For Her / For Everyone)  
+iii. Name  
+iv. Description and Base Price  
+v. At least one image  
+vi. Admin approval required before listing  
+vii. Seller notified of approval/rejection  
 
 ### 4. Community-Based Pricing System
-i. Each product has a minimum base price
-ii. Buyers suggest a fair price
-iii. System calculates average price → Listing Price
+i. Each product has a minimum base price  
+ii. Buyers suggest a fair price  
+iii. System calculates average price → Listing Price  
 
 ### 5. Auction System
-Approved products go live daily from 12:00 PM to 11:59 PM
-Product is:
-i. Sold at listing price if no higher bids
-ii. Sold to highest bidder otherwise
-iii. Sold products remain in database but become invisible
+Approved products go live daily from 12:00 PM to 11:59 PM  
+Product is:  
+i. Sold at listing price if no higher bids  
+ii. Sold to highest bidder otherwise  
+iii. Sold products remain in database but become invisible  
 
 ### 6. Product Request & Fulfillment Forum (New Feature)
 A dedicated forum where users can request products or services they need.
