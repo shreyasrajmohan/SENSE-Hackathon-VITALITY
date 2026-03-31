@@ -4,7 +4,6 @@ The goal is to design and develop VITALITY, a full-stack web application tailore
 
 ## Core Problem
 Existing student marketplaces lack:
-
 i. Fair, community-influenced pricing  
 ii. Structured seller and product approval workflows  
 iii. Transparent and controlled auction mechanisms  
@@ -96,6 +95,14 @@ For Everyone (Colorful)
 Category-based product visibility
 Smooth animations and hover effects
 Custom cursor (small dot style)
+
+## What makes VITALITY unique:  
+i. Community-driven average pricing (very rare)  
+ii. Auction AFTER price discovery  
+iii. Admin-controlled ecosystem (college-specific trust layer)  
+iv. Request forum with FCFS allocation  
+v. Anonymous chat + OTP-based transaction completion  
+vi. Strict role transitions (buyer → seller approval)  
 
 ## Technical Requirements
 Frontend: HTML, CSS, JavaScript (React / Next.js preferred)
