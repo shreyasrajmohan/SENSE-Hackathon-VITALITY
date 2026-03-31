@@ -4,24 +4,24 @@ The goal is to design and develop VITALITY, a full-stack web application tailore
 
 ## Core Problem
 Existing student marketplaces lack:
-Fair, community-influenced pricing
-Structured seller and product approval workflows
-Transparent and controlled auction mechanisms
-A system for posting and fulfilling specific product/service requests
-Anonymous yet secure communication between users
-Robust complaint and moderation systems
-VITALITY addresses these gaps by introducing a multi-role, moderated, and interaction-driven platform.
+i. Fair, community-influenced pricing
+ii. Structured seller and product approval workflows
+iii. Transparent and controlled auction mechanisms
+iv. A system for posting and fulfilling specific product/service requests
+v. Anonymous yet secure communication between users
+vi. Robust complaint and moderation systems
+vii. VITALITY addresses these gaps by introducing a multi-role, moderated, and interaction-driven platform.
 
 ## Objectives
 
 ### 1. User Management System
-Enable user registration and login
-Define three roles:
-Admin
-Seller
-Buyer
-Allow Buyers to apply for Seller role via admin approval
-Enable Admins to downgrade Sellers if required
+i. Enable user registration and login
+ii. Define three roles:
+iii. Admin
+iv. Seller
+v. Buyer
+vi. Allow Buyers to apply for Seller role via admin approval
+vii. Enable Admins to downgrade Sellers if required
 
 ### 2. Seller Approval Workflow
 Provide a rate-limited form (max 2 submissions/hour)
