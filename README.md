@@ -59,32 +59,32 @@ iii. Sold products remain in database but become invisible
 ### 6. Product Request & Fulfillment Forum (New Feature)
 A dedicated forum where users can request products or services they need.  
 i. Process Flow   
- -A Requester (Buyer) posts a requirement in the forum  
- -Request includes:  
+ - A Requester (Buyer) posts a requirement in the forum  
+ - Request includes:  
   a. Description of requirement  
   b. Optional images/details  
   c. A settled price they are willing to pay  
 ii. Fulfillment Mechanism  
- -Any eligible user (Completer, typically Seller) can accept the request  
- -Assignment follows First Come First Serve (FCFS) basis  
- -Once accepted, the request is locked for others  
+ - Any eligible user (Completer, typically Seller) can accept the request  
+ - Assignment follows First Come First Serve (FCFS) basis  
+ - Once accepted, the request is locked for others  
 iv. Anonymous Communication  
- -Requester and Completer communicate through an anonymous in-platform chat system  
- -Personal identities are hidden to ensure privacy  
+ - Requester and Completer communicate through an anonymous in-platform chat system  
+ - Personal identities are hidden to ensure privacy  
 v. Transaction Completion via OTP  
- -Both parties receive unique One-Time Passwords (OTPs)  
- -Exchange is considered complete only when:  
- -Each party enters the other party’s OTP into their account  
- -Ensures:  
+ - Both parties receive unique One-Time Passwords (OTPs)  
+ - Exchange is considered complete only when:  
+ - Each party enters the other party’s OTP into their account  
+ - Ensures:  
   a. Mutual confirmation  
   b. Fraud prevention  
   c. Trustless but secure exchange  
 
 ### 7. Complaint & Support System
 i. Buyers can report:  
- -Misleading or inappropriate products  
+ - Misleading or inappropriate products  
 ii. Sellers can report:  
- -Non-cooperative buyers  
+ - Non-cooperative buyers  
 iii. Admin manages all complaints via dashboard  
 
 ### 8. User Interface & Experience
