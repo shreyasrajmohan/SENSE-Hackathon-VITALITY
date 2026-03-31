@@ -26,35 +26,34 @@ vii. Enable Admins to downgrade Sellers if required
 ### 2. Seller Approval Workflow
 Provide a rate-limited form (max 2 submissions/hour)
 Collect:
-Full Name
-Registration Number
-Phone Number
-Hostel Block & Room Number
-Send submissions to Admin dashboard
-Notify users upon approval/rejection
+i. Full Name
+ii. Registration Number
+iii. Phone Number
+iv. Hostel Block & Room Number
+v. Send submissions to Admin dashboard
+vi. Notify users upon approval/rejection
 
 ### 3. Product Listing & Moderation
 Sellers submit products with:
-Unique Product ID
-Category (For Him / For Her / For Everyone)
-Name
-Description
-Base Price
-At least one image
-Admin approval required before listing
-Seller notified of approval/rejection
+i. Unique Product ID
+ii. Category (For Him / For Her / For Everyone)
+iii. Name
+iv. Description and Base Price
+v. At least one image
+vi. Admin approval required before listing
+vii. Seller notified of approval/rejection
 
 ### 4. Community-Based Pricing System
-Each product has a minimum base price
-Buyers suggest a fair price
-System calculates average price → Listing Price
+i. Each product has a minimum base price
+ii. Buyers suggest a fair price
+iii. System calculates average price → Listing Price
 
 ### 5. Auction System
 Approved products go live daily from 12:00 PM to 11:59 PM
 Product is:
-Sold at listing price if no higher bids
-Sold to highest bidder otherwise
-Sold products remain in database but become invisible
+i. Sold at listing price if no higher bids
+ii. Sold to highest bidder otherwise
+iii. Sold products remain in database but become invisible
 
 ### 6. Product Request & Fulfillment Forum (New Feature)
 A dedicated forum where users can request products or services they need.
