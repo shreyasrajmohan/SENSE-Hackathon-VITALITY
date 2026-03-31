@@ -90,20 +90,12 @@ iii. Admin manages all complaints via dashboard
 ### 8. User Interface & Experience
 i. Frosted glass (glassmorphism) design  
 ii. Homepage split into:  
- - For Him (Blue)  
- - For Her (Pink)  
- - For Everyone (Colorful)    
+ - For Him   
+ - For Her 
+ - For Everyone   
 iii. Category-based product visibility  
 iv. Smooth animations and hover effects  
-v. Custom cursor (small dot style)  
-
-## Technical Requirements
-i. Frontend: HTML, CSS, JavaScript (React / Next.js preferred)    
-ii. Backend: Node.js or Python (Django/Flask)  
-iii. Database: PostgreSQL / MongoDB  
-iv. Authentication: Secure login (JWT/session-based)  
-v. Real-time Features: Chat + auction updates  
-vi. Security: Rate limiting, OTP verification, role-based access  
+v. Custom cursor (small dot style)    
 
 ## Expected Outcome
 A robust, scalable, and visually engaging platform that:  
